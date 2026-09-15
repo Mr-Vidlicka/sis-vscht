@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 300 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;">
-    <g transform="matrix(4.166667,0,0,4.166667,0,0)">
-        <g transform="matrix(-1,-0,0,-1,86.34987,72.0363)">
-            <g id="color">
-                <path d="M52.498,49.249L36,67.036L19.502,49.249L23.578,45.46L33.219,55.855L33.219,5.036L38.781,5.036L38.781,55.855L48.422,45.46L52.498,49.249Z" style="fill:rgb(203,147,21);fill-rule:nonzero;"/>
-            </g>
+<svg width="100%" height="100%" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;">
+    <g transform="matrix(1,0,0,1,14.34987,-0.0363)">
+        <g id="color">
+            <path d="M52.498,49.249L36,67.036L19.502,49.249L23.578,45.46L33.219,55.855L33.219,5.036L38.781,5.036L38.781,55.855L48.422,45.46L52.498,49.249Z" style="fill:rgb(203,147,21);fill-rule:nonzero;"/>
         </g>
-        <g transform="matrix(-1,-0,0,-1,86.34987,72.0363)">
-            <g id="line">
-                <path d="M52.498,49.249L36,67.036L19.502,49.249L23.578,45.46L33.219,55.855L33.219,5.036L38.781,5.036L38.781,55.855L48.422,45.46L52.498,49.249Z" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
-            </g>
+    </g>
+    <g id="line">
+        <g transform="matrix(1,0,0,1,14.34987,-0.0363)">
+            <path d="M52.498,49.249L36,67.036L19.502,49.249L23.578,45.46L33.219,55.855L33.219,5.036L38.781,5.036L38.781,55.855L48.422,45.46L52.498,49.249Z" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
         </g>
         <g>
             <g transform="matrix(31,0,0,31,7.948886,30.288)">

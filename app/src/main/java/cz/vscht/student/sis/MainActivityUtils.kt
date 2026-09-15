@@ -178,10 +178,10 @@ val fromAssetsReplacements = mapOf(
     "ico_edit.gif" to "openmoji-color/E25D.png",
     "ico_edit.png" to "openmoji-color/E25D.png",
     "ico_n_magnifier.png" to "openmoji-color/1F50E.png",
-    "order_up.gif" to "icons/Z_A_inv.svg",
-    "order_up_a.gif" to "icons/Z_A_on_inv.svg",
-    "order_down.gif" to "icons/A_Z_inv.svg",
-    "order_down_a.gif" to "icons/A_Z_on_inv.svg",
+    "order_up.gif" to "icons/A_Z_inv.svg",
+    "order_up_a.gif" to "icons/A_Z_on_inv.svg",
+    "order_down.gif" to "icons/Z_A_inv.svg",
+    "order_down_a.gif" to "icons/Z_A_on_inv.svg",
     // don't forget to add css rule to smaller it!
 )
 
