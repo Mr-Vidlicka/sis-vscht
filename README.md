@@ -27,7 +27,7 @@ Currently only by direct download from GitHub.
 
 ### Direct APK download (you must update manually)
 
-Download the APK file from [Releases](https://github.com/Mr-Vidlicka/sis-vscht-test/releases) &rarr; Assets &rarr; app-release.apk. 
+Download the APK file from [Releases](https://github.com/Mr-Vidlicka/sis-vscht-test/releases) &rarr; Assets &rarr; cz.vscht.student.sis_v2.X.X.apk. 
 
 To install it, "Install apps from unknown/external sources" option has to be enabled in your Android. This option should be found somewhere in settings. You can try: \
 "Settings &rarr; Apps & notifications &rarr; Special app access &rarr; Install unknown apps" \
