@@ -6,7 +6,7 @@
         \n
         \nTato aplikace funguje tak, že načte webovou stránku SISu a vloží do ní styly a funkce tak, aby ji bylo příjemné používat i na mobilních zařízeních a vypadala celkově moderněji.
         \n
-        \nAplikace nikam neodesílá přihlašovací údaje ani jiná uživatelská data. Na její zdrojový kód se můžeš podívat na github.com/Mr-Vidlicka/sis-vscht-test
+        \nAplikace nikam neodesílá přihlašovací údaje ani jiná uživatelská data. Na její zdrojový kód se můžeš podívat na github.com/Mr-Vidlicka/sis-vscht
         \n
         \nNěkteré prvky a funkce mohou vypadat rozbitě, mít původní vzhled, nebo nemusí fungovat vůbec - za nic neručím. Pokud něco takového objevíš, nebo máš nápad, jak aplikaci dále vylepšit, budu rád za nahlášení, třeba na email krcf@vscht.cz, nebo issue na GitHub.
         \n
