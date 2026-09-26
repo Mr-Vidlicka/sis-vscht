@@ -23,7 +23,9 @@ This app does NOT collect usernames, passwords, personal information or any othe
 
 ## Download
 
-Currently only by direct download from GitHub.
+Currently only by direct download from GitHub. 
+Unfortunately, the app isn't available on the Google Play Store because Google charges €25 for registration.
+
 
 ### Direct APK download (you must update manually)
 
@@ -34,7 +36,6 @@ To install it, "Install apps from unknown/external sources" option has to be ena
 "Settings &rarr; Security &rarr; Unknown sources"
 
 Open the downloaded APK file and you should be able to install it. You might see a "Blocked by Play Protect" message, because I'm not a verified developer and the app is not being installed from Google Play.
-
 
 ## Project Installation, Build and Run
 
